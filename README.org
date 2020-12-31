@@ -1,3 +1,3 @@
 * Requirements
 
-[[https://github.com/xdamman/mediumexporter#readme][Medium To Markdown]]
+[[https://www.npmjs.com/package/medium-to-md][Medium To Markdown]]
